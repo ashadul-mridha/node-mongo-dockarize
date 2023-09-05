@@ -39,13 +39,6 @@ Step 4: Start the API by
 npm start
 ```
 
-## Author
-
-- [**Truly Mittal**](https://trulymittal.com)
-
-## License
-
-This project is licensed under the MIT License.
 
 #### Or you can Up project using docker
 
@@ -54,3 +47,12 @@ Step 1: Simple use docker compose up
 ```bash
 docker compose up
 ```
+
+
+## Author
+
+- [**Ashadul Mridha**]
+
+## License
+
+This project is licensed under the MIT License.
