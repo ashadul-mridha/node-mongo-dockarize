@@ -13,7 +13,7 @@ The application is **production ready**, and can be used behind a Nginx reverse 
 Step 1: Clone the repo
 
 ```bash
-git clone https://github.com/trulymittal/Nodejs-REST-API.git
+https://github.com/ashadul-mridha/node-mongo-dockarize
 ```
 
 Step 2: cd into the cloned repo and run:
@@ -25,11 +25,12 @@ npm install
 Step 3: Put your credentials in the .env file.
 
 ```bash
+
+
+
 PORT=3000
 MONGODB_URI=YOUR MONGODB URI
 DB_NAME=DATABASE NAME OF YOUR CHOICE
-DB_USER=DATABASE USER
-DB_PASS=DATABASE USER PASSWORD 
 ```
 
 Step 4: Start the API by
@@ -45,3 +46,11 @@ npm start
 ## License
 
 This project is licensed under the MIT License.
+
+#### Or you can Up project using docker
+
+Step 1: Simple use docker compose up
+
+```bash
+docker compose up
+```
